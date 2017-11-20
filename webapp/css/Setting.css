@@ -1,0 +1,20 @@
+.settingHeaderCellPadding{
+	padding-top : 7px !important;
+}
+.settingTable{
+	border-bottom: 1px solid #dddddd;
+}
+.settingBottomRowPadding{
+	padding-top : 15px !important;
+}
+.settingTopRowPadding{
+	padding-top : 15px !important;
+}
+.settingVwlabels {
+    color: #848484 !important;
+    font-size: 12px !important;
+    font-weight: bold;
+}
+
+
+

@@ -1,0 +1,51 @@
+.McCcpInventoryHeaderTableTrTitle {
+	color: #ffffff;
+	font-size: 20px !important;
+	font-weight: bold;
+	position: relative;
+	top: 10px;
+}
+
+.sapUiTablePaginator {
+	display: none !important;
+}
+
+.mcCcpInvBottomRowPadding {
+	padding-top: 15px !important;
+}
+
+.mcCcpInvProjectedDoiColor {
+	color: red;
+}
+
+.mcCcpInvViewLabels {
+	color: #848484 !important;
+	font-size: 12px !important;
+	font-weight: bold;
+}
+
+.sapUiTableCell {
+	text-align: left;
+}
+
+.sapUiTableColCell>.sapUiLbl {
+	word-wrap: break-word;
+	white-space: normal;
+}
+
+.sapUiTableCell>.sapUiTv {
+word-wrap: break-word;
+white-space: normal;
+}
+
+.inventortyTable{
+       border-bottom: 1px solid #dddddd;
+}
+
+.invShowDialog .sapUiDlgFooter{
+	background-color: #ffffff !important;
+}
+
+.impInvShowDialog .sapUiDlgFooter{
+	background-color: #ffffff !important;
+}

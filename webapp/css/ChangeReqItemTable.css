@@ -1,0 +1,127 @@
+.McCcpChngReqOrdTable {
+	table-layout: fixed;	
+}
+
+.McCcpChngReqOrdTable tr:nth-of-type(odd) td:nth-of-type(even) { background-color: #E8E8E8 ; }
+.McCcpChngReqOrdTable tr:nth-of-type(even) td:nth-of-type(even){ background-color: #F0F0F0 ;  }
+.McCcpChngReqOrdTable tr:nth-of-type(odd) td:nth-of-type(odd) { background-color : #F8F8F8 ;  }
+.McCcpChngReqOrdTable tr:nth-of-type(even) td:nth-of-type(odd) { background-color: #FFFFFF ; }
+
+
+.McCcpChngReqOrdTableHdrTr td{
+	background-color: #ffffff !important; 
+}
+
+.McCcpChngReqOrdTableSpaceTr td{
+	background-color: #ffffff !important; 
+}
+
+.sapUiTableCol{
+	min-height : 40px !important;
+}
+
+
+ .McCcpChngReqOrdTableHdrTr>td{
+	border-style: solid;
+    border-width: 0px;    
+    border-bottom-width: 3px;
+    border-color:  #dddddd;
+    padding-right: 15px;
+    text-align: right;
+    color: #444444;
+    font-size: 15px;
+    font-weight: bold;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    padding-left: 10px;
+}
+ .McCcpChngReqOrdTableHdrTr>td:first-child{	
+    text-align: left;   
+}
+
+ .McCcpChngReqOrdTableHdrTr>td:nth-child(4){	
+    text-align: left;   
+}
+
+.McCcpChngReqOrdTableHdrTr>td:nth-child(1){	
+    padding-left: 0px !important; 
+}
+
+
+ .McCcpChngReqOrdTableTr>td {
+	border-style: hidden;
+    border-width: 0px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-color:  #dddddd;
+    padding-right: 15px;
+    text-align: right;
+}
+
+ .McCcpChngReqOrdTableTr>td:first-child{	
+    text-align: left;   
+}
+
+
+ .McCcpChngReqOrdTableTr td:nth-child(5){	
+    background-color: #ffffff !Important; 
+}
+ 
+ .McCcpChngReqTableTr td:nth-child(4){	
+     background-color: #EE9E2E !Important;  
+}
+
+
+
+
+.McCcpChngReqOrdTableFrctTr>td {
+	border-style: hidden;
+    border-width: 0px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-color:  #dddddd;
+    padding-right: 2px;
+    text-align: right;
+}
+
+ .McCcpChngReqOrdTableFrctTr>td:first-child{	
+    text-align: left;   
+}
+
+ .McCcpChngReqOrdTableFrctTr td:nth-child(2){	
+   padding-right: 15px;     
+}
+
+ .McCcpChngReqOrdTableFrctTr td:nth-child(3){	
+   padding-right: 15px;     
+}
+
+ .McCcpChngReqOrdTableFrctTr td:nth-child(4){	
+    background-color: #EE9E2E !Important;         
+}
+
+.McCcpCRItemTblStdHght{
+	height: 30px;
+	padding-right: 3px !important;
+	padding-bottom: 2px !important;
+}
+
+
+.tdClassCR{
+	width : 18%;
+}
+
+.divClassCR{
+	text-overflow: ellipsis;   
+       white-space: nowrap;
+       overflow: hidden;
+       width : 100%;
+	
+}
+
+
+
+
+
+

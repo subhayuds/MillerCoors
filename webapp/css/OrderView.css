@@ -1,0 +1,21 @@
+.orderVwlabels {
+    color: #848484 !important;
+    font-size: 12px !important;
+    font-weight: bold;
+}
+
+.McCcpCustIDField {
+       border: 1px solid #000000 !important;
+       text-align: right !important;
+       padding-right: 10px !important; 
+}
+
+.McCcpShipToCheck{
+	text-align : center !important;
+	padding-left : 7px !important;
+	padding-right : 2px !important;
+}
+
+
+
+

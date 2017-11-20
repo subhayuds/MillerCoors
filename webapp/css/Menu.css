@@ -1,0 +1,167 @@
+/********************************
+navigation bar 
+********************************/
+.nav_bar{
+background: rgba(233,233,233,1);
+background: -moz-linear-gradient(top, rgba(233,233,233,1) 0%, rgba(233,233,233,1) 20%, rgba(181,181,181,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(233,233,233,1)), color-stop(20%, rgba(233,233,233,1)), color-stop(100%, rgba(181,181,181,1)));
+background: -webkit-linear-gradient(top, rgba(233,233,233,1) 0%, rgba(233,233,233,1) 20%, rgba(181,181,181,1) 100%);
+background: -o-linear-gradient(top, rgba(233,233,233,1) 0%, rgba(233,233,233,1) 20%, rgba(181,181,181,1) 100%);
+background: -ms-linear-gradient(top, rgba(233,233,233,1) 0%, rgba(233,233,233,1) 20%, rgba(181,181,181,1) 100%);
+background: linear-gradient(to bottom, rgba(233,233,233,1) 0%, rgba(233,233,233,1) 20%, rgba(181,181,181,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e9e9e9', endColorstr='#b5b5b5', GradientType=0 );
+width:100%;
+text-align:left;
+}
+.menu_item{
+margin:10px 20px 5px 20px;
+padding:5px 15px 5px 15px;
+text-align:center;
+color:#000 !important;
+font-weight:bold;
+}
+
+.selecteditem{
+border-radius:15px;
+background:#CE8B08;
+margin:10px 20px 5px 20px;
+padding:5px 15px 5px 15px;
+text-align:center;
+ 
+color:#fff !important;
+text-decoration:none !important;
+}
+.disableditem{
+border-radius:15px;
+background:red;
+margin:10px 20px 5px 20px;
+padding:5px 15px 5px 15px;
+text-align:center;
+ 
+color:#fff !important;
+text-decoration:none !important;
+}
+.selectedsubmenuitem{
+background:#CE8B08;
+ 
+color:#fff !important;
+font-weight: bold;    
+    padding: 2% 18%;
+    width:130px;
+}
+
+.menu_item:hover{
+border-radius:15px;
+background:#CE8B08;
+margin:10px 20px 5px 20px;
+padding:5px 15px 5px 15px;
+text-align:center;
+ 
+color:#fff !important;
+text-decoration:none !important;
+}
+
+.menu_itemDisable:hover{
+border-radius:15px;
+background:gray;
+margin:10px 20px 5px 20px;
+padding:5px 15px 5px 15px;
+text-align:center;
+ 
+color:#fff !important;
+text-decoration:none !important;
+}
+
+
+.menu_dropdown{
+background:#fff !important;
+padding:5px 2px;
+box-shadow:none !important;
+ 
+height:110px;
+}
+#menubar{
+background: linear-gradient(to bottom, rgba(233, 233, 233, 1) 0%, rgba(233, 233, 233, 1) 20%, rgba(181, 181, 181, 1) 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    text-align: center;
+    width: 100%;
+}
+
+ #item1-1-1,#item1-1-2,#item1-1-3{
+color: #000 !important;
+    font-weight: bold;    
+    padding: 2% 18%;
+    width:140px !important;
+}
+
+#item1-1-1:hover ,#item1-1-2:hover ,#item1-1-3:hover {
+ 
+background:#CE8B08;
+ 
+color:#fff !important;
+font-weight: bold;    
+    padding: 2% 18%;
+    width:140px !important;
+}
+/********************************
+end of navigation bar 
+********************************/
+
+
+ .mcCustControlMsgCount {
+margin-left: auto;
+margin-right: auto;
+background-color: #CE8505;
+font-size: 12px;
+color: #ffffff;
+/*-moz-border-radius: 1.5rem;*/
+border-radius: 1.5rem;
+width: 20px;
+height: 20px;
+/* border: 1px solid #000; */
+box-shadow: 0 0.063rem 0.125rem 0 rgba(128,128,128,0.6);
+padding: 0;
+line-height: 19px;
+
+z-index: 0;
+bottom: 32px;
+left: 12px;
+}
+
+#count{
+    text-align: center !important;
+    background-color: #ce8505;
+    border-radius: 1.5rem;
+    box-shadow: 0 0.063rem 0.125rem 0 rgba(128, 128, 128, 0.6);
+    color: #ffffff;
+    font-size: 12px;
+    position: relative;
+    right: 26px;
+    width: 17px;
+}
+
+
+#item1-1-4 {
+    text-align: center !important;
+    background-color: #ce8505;
+    border-radius: 1.5rem;
+    box-shadow: 0 0.063rem 0.125rem 0 rgba(128, 128, 128, 0.6);
+    color: #ffffff;
+    font-size: 12px;
+    line-height: 17px;
+    position: relative;
+    right: 26px;
+    width: 17px;
+    height: 17px;
+    top: -65px;
+    left: 115px;
+}
+#item1-1-4 .sapUiMnuItmTxt {
+padding-left : 0px !important;
+} 
+.currentweek{
+margin:10px 20px 5px 20px;
+padding:5px 15px 5px 15px;
+text-align:center;
+color:#000 !important;
+font-weight:bold;
+}

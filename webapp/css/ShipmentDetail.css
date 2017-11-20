@@ -1,0 +1,46 @@
+.McCcpTextCenter {
+	text-align: center !important;
+}
+
+.McCcpTextLeft {
+	text-align: left !important;
+	padding-left: 10px !important;
+}
+
+.McCcpPadRight {
+	padding-right: 10px !important;
+}
+
+.McCcpChildTable {
+       margin-left: auto !important;
+       margin-right: auto !important;
+       margin:10px 0px;
+       border-collapse:collapse;  
+}
+
+.McCcpChildTableTwo {
+border: 1px solid #ddd;		
+}
+.mtNone.McCcpChildTable{margin-top:0;}
+
+.whiteBg{background:#fff !important;}
+
+.printIcon{
+position: relative;
+top: 4px;
+color: #fff;
+border: 1px solid #fff;
+padding: 5px;
+left: 3px;}
+
+.shipmentTableTr.McCcpOrderItemTblTr td:nth-child(5){background:#fff !important;}
+
+.shipmentTableTr.McCcpOrderItemTblTr>td {padding-right:0px;}
+
+/*.sapUiTableColIcons{padding-top: 27px !important;right: 2px !important;}*/		
+
+#shpto .sapUiTableColIcons , #shipment .sapUiTableColIcons , #status .sapUiTableColIcons , #pod .sapUiTableColIcons , #sourceid .sapUiTableColIcons{padding-top: 9px !important; right: 5px !important;}
+
+@media print {
+	@page {size: landscape;}
+}

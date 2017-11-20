@@ -1,0 +1,29 @@
+
+.naviLinkText {
+    color: #848484 !important;
+    font-size: 11px !important;
+    font-weight: bold;
+}
+
+
+.naviLink {
+    font-size: 14px !Important;
+    font-weight: bold;
+    padding-top: 2px;
+}
+
+.naviText {
+    color: #848484;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.saveDivShow{	
+	height : 10px;
+}
+
+.saveDivHide{
+	display : none;
+	height : 10px;
+}
+

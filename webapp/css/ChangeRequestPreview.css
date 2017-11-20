@@ -1,0 +1,20 @@
+.sapUiLblNowrap{
+	text-wrap : none !important;
+	white-space : none !important;; 
+}
+
+.sapUiTablePaginator{
+	display:none !important;	
+}
+
+.paddingBottomRow{
+	padding-top: 20px !important; 
+}
+
+.changeReqPreviewTable{
+	border-bottom: 1px solid #dddddd;
+}
+
+.changeReqPreviewHeaderPadding{
+	padding-top : 7px !important;
+}

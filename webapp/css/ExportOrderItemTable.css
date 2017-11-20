@@ -1,0 +1,137 @@
+.McCcpExportItemTableTextRed{
+	color: red !important;
+}
+
+.McCcpExportOrderDateAlign{
+	font-size: 11px !important;
+}
+
+.McCcpOrderItemTbl {
+	border-spacing: 0;
+    height: 100%;
+    padding: 0;
+    width: 100%;
+}
+
+.McCcpOrderItemTbl tr:nth-of-type(odd) td:nth-of-type(even) { background-color: #E8E8E8 ; }
+.McCcpOrderItemTbl tr:nth-of-type(even) td:nth-of-type(even){ background-color: #F0F0F0 ;  }
+.McCcpOrderItemTbl tr:nth-of-type(odd) td:nth-of-type(odd) { background-color : #F8F8F8 ;  }
+.McCcpOrderItemTbl tr:nth-of-type(even) td:nth-of-type(odd) { background-color: #FFFFFF ; }
+
+
+
+
+.McCcpOrderItemTblSpaceTr{
+	height: 5px ;
+}
+
+.McCcpOrderItemTblSpaceTr td{
+	background-color: #ffffff !important; 
+}
+
+.McCcpExportOrderItemTblHdrTr{
+	height: 30px;
+}
+
+.McCcpExportOrderItemTblHdrTr td{
+	background-color: #ffffff !important; 
+}
+
+
+ .McCcpExportOrderItemTblHdrTr>td{
+	border-style: solid;
+    border-width: 0px;    
+    border-bottom-width: 3px;
+    border-color:  #dddddd;
+    padding-right: 15px;
+    text-align: right;
+    color: #444444;
+    font-size: 15px;
+    font-weight: bold;
+}
+ .McCcpExportOrderItemTblHdrTr>td:first-child{	
+    text-align: left;   
+}
+
+ .McCcpExportOrderItemTblHdrTr>td:nth-child(4){	
+    text-align: left;   
+}
+
+
+
+
+ .McCcpOrderItemTblTr>td {
+	border-style: hidden;
+    border-width: 0px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-color:  #dddddd;
+    padding-right: 15px;
+    text-align: right;
+}
+
+ .McCcpOrderItemTblTr>td:first-child{	
+    text-align: left;   
+}
+
+
+ .McCcpExportOrderItemTblTr td:nth-child(5){	
+    background-color: #EE9E2E !Important; 
+    padding-right: 2px;
+}
+
+
+.McCcpExportOrderItemTblFrctTr {
+	height: 30px;
+}
+
+
+.McCcpExportOrderItemTblFrctTr>td {
+	border-style: hidden;
+    border-width: 0px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-color:  #dddddd;
+    padding-right: 2px;
+    text-align: right;
+}
+
+ .McCcpExportOrderItemTblFrctTr>td:first-child{	
+    text-align: left;   
+}
+
+ .McCcpExportOrderItemTblFrctTr td:nth-child(2){	
+   padding-right: 15px;     
+}
+
+ .McCcpExportOrderItemTblFrctTr td:nth-child(3){	
+   padding-right: 15px;     
+}
+
+ .McCcpExportOrderItemTblFrctTr td:nth-child(5){	
+    background-color: #EE9E2E !Important;         
+}
+
+.McCcpOrderItemTblCellProdBlock{
+	background-color:#c7c7c7 !Important;  
+}
+
+
+.McCcpExportOrderItemTblLblCol{
+	width: 9%;
+}
+
+.McCcpExportOrderItemTblDataCol{
+	width: 7%;
+	text-align: right;
+	padding-right: 10px;
+}
+
+.McCcpOrderItemTblStdHght{
+	height: 30px;
+}
+
+
+
+
+

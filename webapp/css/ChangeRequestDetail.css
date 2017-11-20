@@ -1,0 +1,21 @@
+
+.changeReqDetailCommentImg{
+	margin-left:6px !important;
+	padding-top:4px !important;
+}
+
+.changeReqDdetailTable{
+	border-bottom: 1px solid #dddddd;
+}
+
+.changeReqBottomRowPadding{
+	padding-top : 15px !important;
+}
+
+.sapUiTableColHdrCnt{
+	min-height : 45px !important;
+}
+
+.changeReqHeaderCellPadding{
+	padding-top : 7px !important;
+}

@@ -1,0 +1,34 @@
+.invAnalyticsTable tr:nth-of-type(odd) td:nth-of-type(odd) { background-color: #E8E8E8 ; }
+.invAnalyticsTable tr:nth-of-type(even) td:nth-of-type(odd){ background-color: #F0F0F0 ;  }
+.invAnalyticsTable tr:nth-of-type(odd) td:nth-of-type(even) { background-color : #F8F8F8 ;  } 
+
+
+
+.invAnalyticsTable tr td:first-child {
+background-color: #ffffff !important;
+}
+
+.invAnalyticsTableHdrTr td{
+background-color: #ffffff !important; 
+}
+
+.ordTableSpaceTr td{
+background-color: #ffffff !important; 
+}
+
+ .invAnalyticsTableTr>td {
+border-style: hidden;
+    border-width: 0px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-color:  #dddddd;
+    padding-right: 15px;
+    text-align: right;
+}
+
+
+
+ .invAnalyticsTableTr td:nth-child(6){
+ 
+    background-color: #EE9E2E !Important; 
+}

@@ -1,0 +1,36 @@
+.sapUiLblNowrap{
+	text-wrap : none !important;
+	white-space : none !important;; 
+}
+
+.sapUiTablePaginator{
+	display:none !important;	
+}
+
+.paddingBottomRow{
+	padding-top: 20px !important; 
+}
+
+.salesAndInventoryTable{
+	border-bottom: 1px solid #dddddd;
+}
+
+.salesAndInventoryHeaderPadding{
+	padding-top : 7px !important;
+}
+
+.salesAndInventoryRowPadding{
+	padding-top : 15px !important;
+}
+
+.salesAndInventoryTextMargin{
+	margin-left: -1.4em;
+}
+
+.salesAndInventoryTextBorder{
+	border: 1px solid black !important;
+	padding-right: 3px !important;
+	box-shadow: inset 0 0 2px #000000;
+	text-align : right !important;
+	
+}

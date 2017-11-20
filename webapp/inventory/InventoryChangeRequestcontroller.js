@@ -1,0 +1,55 @@
+/*
+#------------------------------------------------------------
+#INVENTORY WORKSHEET VIEW LEVEL STRINGS 
+#------------------------------------------------------------
+
+
+VW_INV_WORK_SHEET_INVE_WORK_SHEET=Inventory Worksheet
+VW_INV_WORK_SHEET_DIST_SKU=Dist SKU
+VW_INV_WORK_SHEET_SKU=SKU
+VW_INV_WORK_SHEET_DESC=Description
+VW_INV_WORK_SHEET_SHIP_TO=Ship To
+VW_INV_WORK_SHEET_SOURCE=Source
+VW_INV_WORK_SHEET_EST_TRANS_TIME=Est Transit Time
+VW_INV_WORK_SHEET_PREV_SUBMIT=Preview & Submit CR's
+VW_INV_WORK_SHEET_ENABLE_CHANGE_REQUEST=Enable Change Request
+VW_INV_WORK_SHEET_BEGINNING_INV=Beginning Inv.
+VW_INV_WORK_SHEET_BEGINNING_DOI=Beginning DOI
+VW_INV_WORK_SHEET_INV_VARIANCE=Inv Variance
+VW_INV_WORK_SHEET_INS_OUTS=Ins/Outs
+VW_INV_WORK_SHEET_CURRENT_ORDER_QTY=Current Order Qty
+VW_INV_WORK_SHEET_SUGGESTED=Suggested
+VW_INV_WORK_SHEET_ORDERED=Ordered
+VW_INV_WORK_SHEET_CONFIRMED=Confirmed
+VW_INV_WORK_SHEET_CR=CR
+VW_INV_WORK_SHEET_PLANNED_SHIP=Planned Ship
+VW_INV_WORK_SHEET_IN_TRANSIT_SHIP=In-Transit Ship
+VW_INV_WORK_SHEET_ARRIVED_SHIP=Arrived Ship
+VW_INV_WORK_SHEET_DIST_FORECAST=Dist Forecast
+VW_INV_WORK_SHEET_PY_SALES=PY Sales
+VW_INV_WORK_SHEET_PERC_MINUS_PLUS=% -/+
+VW_INV_WORK_SHEET_END_INV=End Inv.
+VW_INV_WORK_SHEET_PROJECTED_DOI=Projected DOI
+VW_INV_WORK_SHEET_TARGET_DOI=Target DOI
+VW_INV_WORK_SHEET_SHOW_ANALYTICS=+ Show Analytics
+VW_INV_WORK_SHEET_HIDE_ANALYTICS=- Hide Analytics
+VW_INV_WORK_SHEET_EMPTY=  
+VW_INV_WORK_SHEET_SALES=Sales
+VW_INV_WORK_SHEET_UNSUBMITTED_CRS=Unsubmitted CR
+VW_INV_WORK_SHEET_FIRST_ACCURACY=First Accuracy
+VW_INVENTORY_INV_WORK_SHEET=Inventory Worksheet
+
+#------------------------------------------------------------
+#INVENTORY CHANGE REQUEST INPROGRESS VIEW LEVEL STRINGS           
+#------------------------------------------------------------
+
+VW_INV_WORK_SHEET_CR_PRW_TITLE = In Progress Change Request - SKU
+VW_INV_WORK_SHEET_CR_PRW_IN_PROG_DESC = Change request is not available when there is an in progress change request. The CR field becomes available to edit when MillerCoors completes the request.
+VW_INV_WORK_SHEET_CR_PRW_CHANGE_REQ_NO = Change Request Number:
+VW_INV_WORK_SHEET_CR_PRW_STATUS = Status:
+VW_INV_WORK_SHEET_CR_PRW_DATE_SUBMITTED = Date Submitted:
+VW_INV_WORK_SHEET_CR_PRW_CONFIRMED_QTY = Confirmed Quantity:
+VW_INV_WORK_SHEET_CR_PRW_CHANGE_REQ_QTY = Change Request Quantity:
+VW_INV_WORK_SHEET_CR_PRW_REASON = Reason:
+
+VW_INV_WORK_SHEET_ITMTBL_IN_PROG=In Progress*/

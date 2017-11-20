@@ -1,0 +1,37 @@
+.McCcpVwlabel {
+    color: #848484 !important;
+    font-size: 12px !important;
+    font-weight: bold;
+}
+
+/******************For All Dialog Style***********/
+
+.McCcpCustomDialog{
+	border-radius: 10px;
+	background-color:#ee9e2e !important;
+	
+}
+
+/******************For Align Center Style***********/
+.McCcpAlignCenter {
+    margin: 0 auto;
+}
+
+
+.dateTable{
+	
+}
+
+#ApploadingDivId
+			{
+			  	background: url("image/loading.jpg") no-repeat scroll center center rgba(0, 0, 0, 0);
+			    height: 300px;
+			    left: 34%;
+			    margin: -25px 0 0 -25px;
+			    position: fixed;
+			    top: 30%;
+			    width: 436px;
+			    z-index: 1000;
+			    
+			}
+

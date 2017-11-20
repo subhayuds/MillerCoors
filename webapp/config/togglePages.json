@@ -1,0 +1,7 @@
+{
+    	"mc.ccp.order.Order" : "mc.ccp.order.ImpExpOrder",
+    	"mc.ccp.order.ImpExpOrder" : "mc.ccp.order.Order",
+    	"mc.ccp.shipment.Shipment" : "mc.ccp.shipment.ShipmentsImpExp",
+    	"mc.ccp.shipment.ShipmentsImpExp" : "mc.ccp.shipment.Shipment",
+    	"mc.ccp.inventory.Inventory" : "mc.ccp.inventory.Inventory"
+    }

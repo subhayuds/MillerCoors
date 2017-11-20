@@ -1,0 +1,93 @@
+.invTable tr:nth-of-type(odd) td:nth-of-type(odd) { background-color: #E8E8E8 ; }
+.invTable tr:nth-of-type(even) td:nth-of-type(odd){ background-color: #F0F0F0 ;  }
+.invTable tr:nth-of-type(odd) td:nth-of-type(even) { background-color : #F8F8F8 ;  } 
+
+
+
+.invTable tr td:first-child {
+background-color: #ffffff !important;
+}
+
+.invTableHdrTr td{
+background-color: #ffffff !important; 
+}
+
+.ordTableSpaceTr td{
+background-color: #ffffff !important; 
+}
+
+ .invTableTr>td {
+border-style: hidden;
+    border-width: 0px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-color:  #dddddd;
+    padding-right: 4px;
+    text-align: right;
+}
+
+ .invTableTr>td:nth-child(2){ 
+    text-align: left;       
+}
+
+
+ .invTableTr td:nth-child(6){ 
+    background-color: #EE9E2E !Important; 
+    /*padding-right: 2px !important;*/
+}
+
+
+.invPaginator
+{
+margin-right: 240px;
+background-color:transparent   !Important;
+}
+.invPrevSubLink
+{
+margin-left:26px;
+}
+.invEnableChange
+{
+margin-left:710px;
+}
+
+.invMatrixLabel
+{
+	background-color: #dddddd;
+	/*Newly added*/
+	width: 98% !important;	
+	margin-left: 2% !important;
+}
+.invSecondRowLink
+{
+margin-top: 10px;
+margin-bottom: 10px;
+/*Newly added*/
+margin-left: 2%;
+}
+.invShowDialog
+{
+border-radius: 10px;
+background-color:#ee9e2e !important;
+}
+
+.invUnsubmitedvalue
+{
+margin-left:6px;
+}
+
+.McCustomDialog{
+border-radius: 10px;
+background-color:#ee9e2e !important;
+}
+.InvWSProjectedDoiColor {
+color: red;
+}
+.invTableFirstColumn{
+	font-weight: bold;
+}
+
+
+
+
+

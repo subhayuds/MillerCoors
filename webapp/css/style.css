@@ -1,0 +1,82 @@
+/**/
+@import url('GlobalTableFrame.css');
+@import url('McComboBox.css');
+@import url('Paginator.css');
+@import url('OrderView.css');
+@import url('DateHeader.css');
+@import url('OrderItemTable.css');
+@import url('ArrowTextField.css');
+@import url('OrderViewHeader.css');
+@import url('Menu.css');
+@import url('Message.css');
+@import url('ChangeReqItemTable.css');
+@import url('ChangeRequestDetail.css');
+@import url('ChangeRequestPreview.css');
+@import url('global.css');
+@import url('Inventory.css');
+@import url('InventoryShip.css');
+@import url('InventoryWSAnalyticsTable.css');
+@import url('InventoryWSTable.css');
+@import url('ImportOrderItemTable.css');
+@import url('ExportOrderItemTable.css');
+@import url('ImportInventory.css');
+@import url('ImportInventoryWSTable.css');
+@import url('SalesAndInventory.css');
+@import url('ShipmentDetail.css');
+@import url('Setting.css');
+@import url('ForecastItemTable.css');
+
+
+
+/******************Loading Screen***********/
+#ApploadingDivId{
+  	background: url("../image/loading.jpg") no-repeat scroll center center rgba(0, 0, 0, 0);
+    height: 300px;
+    left: 34%;
+    margin: -25px 0 0 -25px;
+    position: fixed;
+    top: 30%;
+    width: 436px;
+    z-index: 1000;			    
+}
+
+/******************End of Loading Screen***********/
+
+
+/******************End Of For All Dialog Style***********/
+
+
+
+/******************End of Align Center Style***********/
+
+
+/*******RICHA***********/
+.sapUiAcdSectionMinArrow {
+              display: none !important;
+}
+
+/*******SHIPRA*********/
+
+
+/**********Dashboard Header************/
+#SettingLink{
+	margin-top: 20px;
+    margin-right: 10px;
+}
+
+#HelpLink{
+	margin-top: 20px;
+	
+}
+
+#oSetttingLayout{
+	float:right;
+}
+/*************Shipto****/
+#Shiptotable{
+	width: 600px;
+}
+
+.sapUiView {
+display: block !important;
+}

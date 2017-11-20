@@ -1,0 +1,120 @@
+.impInvTable tr:nth-of-type(odd) td:nth-of-type(odd) { background-color: #E8E8E8 ; }
+.impInvTable tr:nth-of-type(even) td:nth-of-type(odd){ background-color: #F0F0F0 ;  }
+.impInvTable tr:nth-of-type(odd) td:nth-of-type(even) { background-color : #F8F8F8 ;  } 
+
+
+
+.impInvTable tr td:first-child {
+background-color: #ffffff !important;
+}
+
+.impInvTableHdrTr td{
+background-color: #ffffff !important; 
+}
+
+.ordTableSpaceTr td{
+background-color: #ffffff !important; 
+}
+
+ .impInvTableTr>td {
+border-style: hidden;
+    border-width: 0px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-color:  #dddddd;
+    padding-right: 15px;
+    text-align: right;
+}
+
+ .impInvTableTr>td:nth-child(2){ 
+    text-align: left;       
+}
+
+ .impInvTableTr td:nth-child(6){ 
+    background-color: #EE9E2E !Important; 
+}
+
+ .impInvTableTd{ 
+    background-color: #EE9E2E !Important; 
+    border-style: hidden;
+    border-width: 0px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-color:  #dddddd;
+    padding-right: 4px;
+    text-align: right;
+}
+
+ .impInvNormalTableTd{ 
+    border-style: hidden;
+    border-width: 0px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-color:  #dddddd;
+    padding-right: 4px;
+    text-align: right;
+}
+.impInvPaginator
+{
+	margin-right: 240px;
+	background-color:transparent   !Important;
+}
+.impInvPrevSubLink
+{
+	margin-left:26px;
+}
+.impInvEnableChange
+{
+	margin-left:728px;
+}
+
+.impInvMatrixLabel
+{
+	background-color: #dddddd;	
+}
+.impInvSecondRowLink
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.impInvShowDialog
+{
+	border-radius: 10px;
+	background-color:#ee9e2e !important;
+}
+
+.impInvUnsubmitedvalue
+{
+	margin-left:6px;
+}
+
+.McCustomDialog{
+	border-radius: 10px;
+	background-color:#ee9e2e !important;
+}
+.impInvWSProjectedDoiColor {
+	color: red;
+}
+.impInvHeaderMatrixLayout
+{
+	background-color: #dddddd;
+	margin-bottom: 25px;
+	/*Newly added*/
+	width: 99% !important;	
+	margin-left: 1% !important;
+}
+
+.impInvTextCenter {
+	text-align: center;
+}
+
+.impInvPadLeft {
+	padding-left: 5px !important;
+}
+
+.impInvTableArrowTd{ 
+    padding-right: 2px !important;
+}
+.impinvTableFirstColumn{
+	font-weight: bold;
+}
